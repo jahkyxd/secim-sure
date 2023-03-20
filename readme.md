@@ -1,0 +1,1 @@
+node.js i indirin cmd yi açın node . yazın seeçime gün sayıyo bla bla bla
